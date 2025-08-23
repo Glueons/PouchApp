@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "PouchApp",
+    "slug": "PouchApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "mezzino.PouchApp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "mezzino.PouchApp"
+    },
+    "web": {
+      "favicon": ""
+    },
+    "owner": "michaelmezzino",
+    "extra": {
+      "eas": {
+        "projectId": "6141e376-7911-42dd-add6-310a5d683b9b"
+      }
+    }
+  }
+}

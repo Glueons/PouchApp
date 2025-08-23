@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "env": {
+        "JAVA_HOME": "C:\\Users\\Mezzino\\.jdks\\jbr-17.0.9",
+        "ANDROID_HOME": "C:\\Users\\Mezzino\\AppData\\Local\\Android\\Sdk"
+      },
+    }
+  ]
+}
