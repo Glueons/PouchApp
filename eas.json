@@ -5,6 +5,7 @@
         "buildType": "apk"
       },
       "ios": {
+        "simulator": true
       }
     },
     "preview": {
